@@ -1,4 +1,4 @@
-# Object-Detection-in-a-Video-Sequence-
+# Object-Detection-in-a-Video-Sequence
 This project aims to detect a 3D object in a video sequence.
 
 The program uses openCV library and Local Difference Binary (LDB) features [1]. 
