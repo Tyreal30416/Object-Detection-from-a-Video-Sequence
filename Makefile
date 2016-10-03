@@ -1,4 +1,4 @@
-# This is Makefile to compile the program dependent on openCV and Eigen3 libs
+# This is Makefile to compile the program dependent on openCV library
 # compiler command
 CXX=g++
 # linker command
